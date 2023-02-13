@@ -14,6 +14,8 @@
 		5EF6B55229935F2B0094D488 /* CoreDataDemoProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5EF6B55029935F2B0094D488 /* CoreDataDemoProject.xcdatamodeld */; };
 		5EF6B55429935F340094D488 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EF6B55329935F340094D488 /* Assets.xcassets */; };
 		5EF6B55729935F340094D488 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EF6B55529935F340094D488 /* LaunchScreen.storyboard */; };
+		5EF6B561299365450094D488 /* ListDataTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF6B560299365450094D488 /* ListDataTableCell.swift */; };
+		5EF6B56329939DE90094D488 /* PDFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF6B56229939DE90094D488 /* PDFViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		5EF6B55329935F340094D488 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EF6B55629935F340094D488 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5EF6B55829935F340094D488 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EF6B560299365450094D488 /* ListDataTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataTableCell.swift; sourceTree = "<group>"; };
+		5EF6B56229939DE90094D488 /* PDFViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDFViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				5EF6B55529935F340094D488 /* LaunchScreen.storyboard */,
 				5EF6B55829935F340094D488 /* Info.plist */,
 				5EF6B55029935F2B0094D488 /* CoreDataDemoProject.xcdatamodeld */,
+				5EF6B560299365450094D488 /* ListDataTableCell.swift */,
+				5EF6B56229939DE90094D488 /* PDFViewController.swift */,
 			);
 			path = CoreDataDemoProject;
 			sourceTree = "<group>";
@@ -144,6 +150,8 @@
 				5EF6B54C29935F2B0094D488 /* ViewController.swift in Sources */,
 				5EF6B54829935F2B0094D488 /* AppDelegate.swift in Sources */,
 				5EF6B55229935F2B0094D488 /* CoreDataDemoProject.xcdatamodeld in Sources */,
+				5EF6B561299365450094D488 /* ListDataTableCell.swift in Sources */,
+				5EF6B56329939DE90094D488 /* PDFViewController.swift in Sources */,
 				5EF6B54A29935F2B0094D488 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
